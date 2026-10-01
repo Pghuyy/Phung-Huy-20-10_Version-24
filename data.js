@@ -9,7 +9,7 @@ const girls = [
       "Có những ngày đi học chẳng có gì quá đặc biệt, nhưng chỉ cần một câu chuyện vui, một lần ngồi cạnh nhau hay một trận cười bất chợt là đủ để ngày ấy ở lại trong trí nhớ. Hy vọng An sẽ có thật nhiều khoảnh khắc như vậy, nhẹ nhàng thôi nhưng lúc nhớ lại vẫn thấy vui.",
       "Chúc An luôn giữ được sự hồn nhiên và nét riêng của mình, đồng thời ngày càng tự tin với những điều bạn lựa chọn. Mong việc học có lúc thử thách nhưng không khiến bạn quên nghỉ ngơi, và bên cạnh An luôn có những người khiến bạn được là chính mình, được cười thật thoải mái và có thêm nhiều kỷ niệm đẹp."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-02",
@@ -17,11 +17,11 @@ const girls = [
     "subject": "Gửi bạn một lời thật dễ thươngg",
     "greeting": "Gửi Vũ Thùy An,",
     "paragraphs": [
-      "Annn ghé vào đây rồi nèee , cảm ơn bạn đã dành chút thời gian đọc mấy dòng nhỏ này nhaaa ♡",
+      "Thùyyy ghé vào đây rồi nèee , cảm ơn An đã dành chút thời gian đọc mấy dòng nhỏ này nhaaa ♡",
       "Ở lớp chắc chắn sẽ còn rất nhiều chuyện vụn vặt để cùng nhau cười, từ một câu nói vô tri đến những khoảnh khắc chẳng ai định trước. Sau này có thể mình sẽ quên từng tiết học, nhưng mong An vẫn nhớ cảm giác vui vẻ khi được ở giữa những người khiến mình thấy thoải mái.",
-      "Mong An có một năm học thật vừa vặn với mình: đủ cố gắng để tiến bộ, đủ thời gian để nghỉ ngơi và đủ những cuộc trò chuyện khiến mỗi ngày không chỉ xoay quanh bài vở. Nếu có lúc mọi thứ hơi rối, cứ chậm lại một chút rồi đi tiếp; không cần phải lúc nào cũng thật hoàn hảo đâu nha."
+      "20/10 vui vẻ nhé! Mong mọi điều tốt đẹp và hạnh phúc nhất sẽ đến với An. Mong An có một năm học thật vừa vặn với mình: đủ cố gắng để tiến bộ, đủ thời gian để nghỉ ngơi và đủ những cuộc trò chuyện khiến mỗi ngày không chỉ xoay quanh bài vở. Nếu có lúc mọi thứ hơi rối, cứ chậm lại một chút rồi đi tiếp; không cần phải lúc nào cũng thật hoàn hảo đâu nha."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-03",
@@ -33,7 +33,7 @@ const girls = [
       "Có những lúc mình cần cố gắng hết sức cho một điều mình thật sự muốn, nhưng cũng có lúc chẳng cần làm gì to tát cả. Một buổi nghỉ ngơi, một cuộc trò chuyện không mục đích hay một chiều được làm điều mình thích cũng đáng được giữ lại như một phần của tuổi học trò.",
       "Chúc Phương Anh bước qua năm học này với thật nhiều trải nghiệm đáng nhớ và một chút tự tin hơn vào bản thân. Mong những điều bạn đang cố gắng sẽ dần có kết quả, những ngày mệt có chỗ để thở, còn những ngày vui thì có người để cùng chia sẻ. Đến lúc nhìn lại, hy vọng bạn sẽ thấy quãng thời gian này thật đáng yêu."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-04",
@@ -43,9 +43,9 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Ngọc Anh vì đã dừng lại ở lá thư này nhaaa ♡ Hy vọng bạn sẽ đọc nó thật vui.",
       "Những ngày bận rộn vẫn nên có một khoảng nhỏ cho riêng mình: nghe một bài hát thích, ăn món mình muốn, ngồi nói chuyện với bạn bè hoặc đơn giản là nằm yên chẳng làm gì cả. Có những niềm vui rất nhỏ nhưng lại đủ sức kéo tâm trạng lên sau một ngày dài.",
-      "Chúc Ngọc Anh làm được những điều mình đặt ra mà không phải tự ép bản thân quá nhiều. Mong việc học ngày càng thuận lợi, những dự định riêng cũng có cơ hội thành hình, và giữa những ngày nhiều việc vẫn luôn có một khoảng thời gian khiến bạn thấy nhẹ đầu. Hy vọng mỗi lần nhìn lại năm học này, bạn sẽ nhớ nhiều hơn những điều vui."
+      "20/10 chúc bạn thật nhiều niềm vui nhaaa ♡ Chúc bạn ngày nào cũng xinh, cũng vui, học hành càng ngày càng ổn và đi học lúc nào cũng có chuyện vui để kể. Mong lớp mình sẽ có thêm thật nhiều buổi cười đau cả bụng, những lần nói chuyện linh tinh rồi thành kỷ niệm nhớ mãi. Chúc bạn luôn có thời gian cho những điều mình thích, gặp nhiều may mắn và mọi chuyện trong năm học này đều thuận lợi hơn một chút. Nhớ ăn ngon, ngủ đủ và đừng để deadline dí quá sát nha =))) Chúc bạn một mùa 20/10 thật đáng yêu và một năm học thật nhiều điều vui ♡."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-05",
@@ -69,7 +69,7 @@ const girls = [
       "Mong Chi gặp được những người khiến bạn không cần phải gồng lên hay cố tỏ ra ổn, cứ nói chuyện, cười đùa và là chính mình là được. Một lớp học sẽ vui hơn rất nhiều khi ai cũng có thể thoải mái với nhau, và hy vọng Chi sẽ có thật nhiều khoảnh khắc như thế trong năm nay.",
       "Nếu có hôm nào thấy mệt, cho bản thân một khoảng nghỉ cũng chẳng sao cả. Chúc Chi học hành tiến bộ theo nhịp của mình, gặp được những người thật lòng và có đủ niềm vui để những ngày bận rộn không trở nên quá nặng. Những điều đang dang dở cứ từ từ hoàn thành, không cần vội vàng quá nha ♡"
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-07",
@@ -91,7 +91,7 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Diệp vì đã dành chút thời gian đọc thư nhaaa ♡ Hy vọng vài dòng này làm ngày của bạn nhẹ hơn một chút.",
       "Không phải ngày nào cũng cần thật đặc biệt mới đáng nhớ. Đôi khi chỉ cần một người bạn dễ nói chuyện, một món ăn ngon, một buổi học có tiếng cười hoặc một tối được nghỉ ngơi thật yên là đã đủ làm một ngày trở nên dễ chịu hơn rồi.",
-      "Chúc Diệp có một 20/10 thật vui và một năm học có nhiều dấu mốc khiến bạn tự hào. Mong những ngày bận rộn vẫn có khoảng trống để bạn nghỉ ngơi, những chuyện khó rồi cũng tìm được cách giải quyết, còn những người bạn gặp trên đường sẽ mang đến thật nhiều tiếng cười và sự thoải mái."
+      "Chúc Diệp có một 20/10 thật hạnh phúc và một năm học có nhiều dấu mốc khiến bạn tự hào. Mong những ngày bận rộn vẫn có khoảng trống để bạn nghỉ ngơi, những chuyện khó rồi cũng tìm được cách giải quyết, còn những người bạn gặp trên đường sẽ mang đến thật nhiều tiếng cười và sự thoải mái."
     ],
     "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
   },
@@ -105,7 +105,7 @@ const girls = [
       "Những giờ học, câu chuyện trong lớp và cả mấy lần cười vì chuyện chẳng đâu vào đâu đều có thể trở thành một phần rất đẹp của năm học này. Có thể lúc đang trải qua mình chẳng để ý, nhưng sau này nhớ lại, chính những khoảnh khắc nhỏ ấy lại làm người ta thấy thương tuổi học trò.",
       "Chúc Dunggg có thật nhiều ngày vui theo cách rất riêng của mình, học hành ổn áp mà vẫn có thời gian cho những điều khiến bạn thích. Mong mỗi tuần đều có một chuyện để mong chờ, một người để kể chuyện và một khoảnh khắc khiến bạn tự nhiên bật cười. 20/10 vui thật vui nhaaa, Dung xứng đáng có một ngày thật dễ thương ♡"
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-10",
@@ -117,7 +117,7 @@ const girls = [
       "Mỗi ngày đến lớp mà có một câu nói làm mình bật cười thì tự nhiên cả buổi cũng nhẹ hơn hẳn. Hy vọng Hà sẽ có thật nhiều khoảnh khắc như vậy, những chuyện rất nhỏ thôi nhưng đủ để một ngày học dài trở nên vui hơn và để sau này nhớ lại vẫn thấy buồn cười.",
       "Chúc Hà gặp được những người khiến bạn thấy dễ chịu và có thể thoải mái nói đủ thứ chuyện trên trời dưới đất. Mong việc học tiến triển theo điều bạn mong muốn, những dự định đang ấp ủ dần có hình dáng rõ ràng hơn, và mỗi khi thấy mệt vẫn có một góc nhỏ để nghỉ ngơi rồi vui lại nha."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-11",
@@ -129,7 +129,7 @@ const girls = [
       "Có những niềm vui chẳng cần lớn: một cuộc trò chuyện hợp cạ, một món ăn ngon, một tin nhắn đúng lúc hay đơn giản là hôm ấy mọi thứ trôi qua thật êm. Mong Hà đừng bỏ qua những điều bé xíu như vậy, vì đôi khi chúng lại là phần dễ thương nhất của một ngày.",
       "Chúc Hà giữ được những niềm vui rất riêng của mình và ngày càng tự tin hơn khi theo đuổi điều bạn thật sự muốn. Nếu có lúc mọi thứ không diễn ra như dự tính, cứ cho mình thêm một chút thời gian; không cần phải có câu trả lời ngay lập tức. Mong phía trước sẽ có nhiều ngày khiến Hà thấy: hôm nay cũng đáng yêu đấy chứ."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-12",
@@ -153,7 +153,7 @@ const girls = [
       "Năm học này cứ gom thật nhiều chuyện vui lại nhé, nhất là những chuyện rất bình thường mà sau này kể lại cả nhóm vẫn cười =)))) Một câu nói lỡ miệng, một pha xử lý khó đỡ hay một buổi học chẳng hiểu sao vui quá cũng có thể trở thành “đặc sản” của lớp mình đó Táo ơiii.",
       "Chúc Táo luôn giữ được nguồn năng lượng rất riêng của mình, học hành ổn áp và gặp thật nhiều người hợp với cái sự đáng yêu hơi “khó đỡ” ấy =)))) Mong 20/10 này thật vui, những ngày đi học có thêm nhiều chuyện để cười, còn những điều Táo đang cố gắng thì từng bước đều có kết quả xứng đáng nhaaa ♡"
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-14",
@@ -175,9 +175,9 @@ const girls = [
     "paragraphs": [
       "Linh ghé qua đây rồi nèee — cảm ơn bạn đã mở lá thư nhỏ của chúng mình nhaaa ♡",
       "Mong những ngày ở lớp không chỉ có bài vở mà còn có những câu chuyện đủ linh tinh để sau này nhớ lại vẫn thấy buồn cười. Một năm học đáng nhớ không nhất thiết phải có chuyện gì thật lớn; đôi khi chỉ cần mình đã cười rất nhiều với những người bên cạnh là đủ.",
-      "Chúc Linh luôn tự tin với những lựa chọn của mình và không ngại thử những điều mới khi thật sự muốn. Mong bạn học hành tiến bộ, có những người bạn hợp cạ để cùng chia sẻ chuyện vui buồn, và sau mỗi tuần lại có thêm một kỷ niệm khiến bạn thấy quãng thời gian ở 10B4 thật đáng để nhớ."
+      "Chúc Linh luôn tự tin với những lựa chọn của mình và không ngại thử những điều mới khi thật sự muốn. Mong bạn học hành ngày càng xuất sắc, có những người bạn hợp cạ để cùng chia sẻ chuyện vui buồn, và sau mỗi tuần lại có thêm một kỷ niệm khiến bạn thấy quãng thời gian ở 10B4 thật đáng để nhớ."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-16",
@@ -187,9 +187,9 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Linh đã tìm thấy thư của mình nhaaa ♡ Hy vọng bạn đọc xong sẽ thấy vui một chút.",
       "Cứ bước từng bước thôi, không cần lúc nào cũng phải thật nhanh hay thật hoàn hảo. Có những việc cần thời gian mới thấy được kết quả, nên nếu hôm nay Linh chưa làm được hết những gì mình muốn thì cũng chẳng có nghĩa là bạn đang đứng yên.",
-      "Chúc Linh có một năm học vừa đủ cố gắng, vừa đủ thảnh thơi và vẫn còn thời gian cho những người, những điều bạn yêu quý. Mong mỗi lần gặp một chuyện khó, bạn có đủ kiên nhẫn để làm từng phần một; còn khi mệt, bạn cũng biết cho mình quyền nghỉ ngơi mà không thấy có lỗi."
+      "Chúc Linh 20/10 thật nhiều niềm vuiii, có một năm học vừa đủ cố gắng, vừa đủ thảnh thơi và vẫn còn thời gian cho những người, những điều bạn yêu quý. Mong mỗi lần gặp một chuyện khó, bạn có đủ kiên nhẫn để làm từng phần một; còn khi mệt, bạn cũng biết cho mình quyền nghỉ ngơi mà không thấy có lỗi."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-17",
@@ -201,7 +201,7 @@ const girls = [
       "Có những ngày chẳng xảy ra gì đặc biệt nhưng vẫn đáng nhớ vì mình đã cười rất nhiều với những người bên cạnh. Hy vọng Linh sẽ có thật nhiều ngày như thế: không cần kế hoạch hoành tráng, chỉ cần ở lớp có vài câu chuyện vui và một nhóm người khiến mình thấy thoải mái.",
       "Chúc Linh giữ được sự vui vẻ ấy, gặp thêm nhiều chuyện hay ho và luôn cảm nhận được rằng những cố gắng của mình là xứng đáng. Nếu có lúc kết quả chưa đến ngay, cứ bình tĩnh thêm một chút; điều quan trọng là bạn vẫn đang tiến lên. Mong năm học này đem đến cho Linh nhiều kỷ niệm hơn cả những gì bạn mong đợi."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-18",
@@ -237,7 +237,7 @@ const girls = [
       "Có những lời chúc không cần quá lớn, chỉ cần bạn đọc xong và thấy lòng nhẹ đi một chút là được. Vậy nên lá thư này không muốn nói điều gì thật xa xôi, chỉ mong Phương Linh có thêm vài phút vui vẻ giữa những ngày học tập và những việc phải lo.",
       "Chúc Phương Linh có những ngày đi học thật vui, những mục tiêu vừa sức để chinh phục và một góc riêng luôn khiến bạn thấy bình yên. Mong bạn gặp đúng người, đúng thời điểm, có thêm nhiều chuyện đáng nhớ với bạn bè và vẫn giữ được sự dịu dàng với chính mình ngay cả khi mọi thứ không diễn ra hoàn hảo."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-21",
@@ -261,7 +261,7 @@ const girls = [
       "Mai cứ giữ những điều làm mình vui, từ những cuộc trò chuyện nhỏ đến những sở thích chẳng cần ai hiểu hết. Không phải niềm vui nào cũng cần một lý do thật lớn; chỉ cần nó khiến mình thấy nhẹ nhõm và được là mình thì đã đủ đáng giữ rồi.",
       "Chúc Maiii có một 20/10 thật đáng yêu và một năm học có nhiều chuyện để mong chờ. Mong việc học thuận lợi, những người bạn bên cạnh đều dễ thương, còn những ngày hơi mệt thì luôn có một điều nhỏ kéo tâm trạng lên. Hy vọng Mai sẽ có thật nhiều khoảnh khắc mà sau này nhớ lại vẫn tự nhiên mỉm cười."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-23",
@@ -283,9 +283,9 @@ const girls = [
     "paragraphs": [
       "Mai ghé vào đây rồi nèee ♡ Cảm ơn bạn đã dành một chút thời gian đọc lá thư nhỏ này nhaaa.",
       "Mỗi người đều có một nhịp riêng, nên cứ sống theo cách khiến Mai thấy thoải mái nhất nhé. Không cần phải chạy theo người khác chỉ vì họ đang đi nhanh hơn; điều quan trọng là mình vẫn đang tiến về phía những điều mình thật sự muốn.",
-      "Chúc Mai có thật nhiều buổi học dễ chịu, những cuộc trò chuyện hợp cạ và vài bất ngờ nho nhỏ làm một ngày đang bình thường tự nhiên vui lên. Mong bạn học hành tiến bộ mà không quên tận hưởng tuổi học trò, có lúc thật bận nhưng cũng có những khoảng rất yên để nghỉ ngơi và nạp lại năng lượng."
+      "Chúc bạn 20/10 vui thật vui nhaaa ♡ Chúc bạn luôn xinh, luôn có mood tốt, học hành ổn áp và ngày nào cũng có ít nhất một chuyện vui để kể. Mong những buổi đi học có thêm nhiều tiếng cười, nhiều kỷ niệm linh tinh mà sau này nhớ lại vẫn thấy buồn cười. Với cả nhớ ăn uống đầy đủ, ngủ sớm một chút và đừng để bài vở dí chạy quanh lớp nha =))) Chúc bạn một năm học thật nhiều niềm vui và thật nhiều khoảnh khắc đáng yêu nhéee ♡."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-25",
@@ -295,7 +295,7 @@ const girls = [
     "paragraphs": [
       "Cảm ơn My đã mở lá thư này nhaaa ♡ Những dòng chữ nhỏ này vui vì được gửi đúng người.",
       "Những ngày bận rộn sẽ dễ chịu hơn nếu bên cạnh vẫn có âm nhạc, bạn bè và một chút thời gian cho bản thân. Đừng ngại tự thưởng cho mình một buổi nghỉ ngơi, một món ăn yêu thích hay một khoảng im lặng; những điều ấy cũng là cách mình chăm sóc chính mình.",
-      "Chúc My học hành thuận lợi, làm được những điều mình thích và luôn giữ được nét riêng khiến mọi người nhớ đến bạn. Mong những dự định phía trước có cơ hội thành hiện thực, những ngày khó có người để chia sẻ, và những ngày vui thì có thật nhiều người cùng cười. Hy vọng năm học này để lại cho My nhiều điều đáng nhớ."
+      "Chúc My học hành thuận lợi, làm được những điều mình thích và luôn giữ được nét riêng khiến mọi người nhớ đến bạn. Mong những dự định phía trước có cơ hội thành hiện thực, những ngày khó có người để chia sẻ, và những ngày vui thì có thật nhiều người cùng cười. Hy vọng năm học này để lại cho My nhiều điều đáng yêuu đáng nhớ."
     ],
     "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
   },
@@ -307,14 +307,14 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Ngân vì đã ghé qua và mở thư nhaaa ♡ các bạn nam có vài điều muốn gửi đến bạn.",
       "Một năm học tốt không nhất thiết phải toàn những ngày hoàn hảo; chỉ cần sau mỗi chặng, Ngân nhận ra mình đã tiến thêm một chút là đã đáng tự hào rồi. Có thể có lúc chậm, có lúc mệt, nhưng từng bước nhỏ vẫn là một phần của hành trình.",
-      "Chúc Ngân vững vàng trước những việc khó, vui với những điều đang có và luôn có người bên cạnh để chia sẻ khi cần. Mong bạn học hành ngày càng chắc hơn, những mục tiêu đặt ra có hướng đi rõ ràng và bản thân cũng bớt khắt khe với mình. Cứ đi từng bước, rồi sẽ có lúc nhìn lại và thấy mình đã đi xa hơn tưởng tượng."
+      "Chúc Ngân vững vàng trước những việc khó, vui với những điều đang có và luôn có người bên cạnh để chia sẻ khi cần. Mong bạn học hành ngày càng vững vàng, hơn, những mục tiêu đặt ra có hướng đi rõ ràng hơnn. Cứ đi từng bước, rồi sẽ có lúc nhìn lại và thấy mình đã đi xa hơn tưởng tượng."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-27",
     "name": "Nguyễn Vũ Kim Ngân",
-    "subject": "Cho một ngày thật vui",
+    "subject": "Cho một ngày thật hạnh phúc",
     "greeting": "Gửi Nguyễn Vũ Kim Ngân,",
     "paragraphs": [
       "Cảm ơn Kim Ngân đã dành thời gian đọc lá thư này nhaaa ♡ Hy vọng bạn sẽ thấy nó thật dễ thương.",
@@ -345,7 +345,7 @@ const girls = [
       "Phương không cần lúc nào cũng phải bận rộn. Có những buổi chẳng làm gì nhiều nhưng lại là lúc mình nạp lại năng lượng tốt nhất, để hôm sau quay lại với việc học và những điều cần làm bằng một cái đầu nhẹ hơn.",
       "Chúc Phương giữ được sự nhẹ nhàng, gặp đúng người để thoải mái chia sẻ và có thêm nhiều chuyện khiến bạn mong đến ngày mai. Mong bạn học hành thuận lợi nhưng không tự tạo áp lực quá mức, có thời gian cho sở thích riêng và vẫn giữ được những niềm vui rất nhỏ của tuổi học trò."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-30",
@@ -357,7 +357,7 @@ const girls = [
       "Cứ đi theo nhịp của mình, chậm một chút cũng được miễn là vẫn đang tiến về phía điều mình muốn. Không phải lúc nào nhanh hơn cũng có nghĩa là tốt hơn; đôi khi đi chậm giúp mình nhìn rõ hơn điều gì thật sự quan trọng và điều gì có thể bỏ qua.",
       "Chúc Phương có thật nhiều kỷ niệm đáng nhớ, vài cú bất ngờ thật vui và những ngày học không chỉ xoay quanh bài vở với deadline. Mong những cố gắng của bạn dần có kết quả, bên cạnh luôn có người để cười cùng, và khi mệt bạn vẫn nhớ cho mình một khoảng nghỉ thật tử tế."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-31",
@@ -369,7 +369,7 @@ const girls = [
       "Những điều đáng nhớ đôi khi đến từ một câu nói rất ngẫu nhiên hoặc một buổi học chẳng có gì đặc biệt. Có thể hôm ấy chẳng ai nghĩ mình sẽ nhớ, nhưng vài năm sau chỉ cần nhắc lại một chi tiết nhỏ thôi cũng đủ khiến cả nhóm bật cười.",
       "Chúc Uyên Phương có thật nhiều khoảnh khắc như thế, học hành ngày càng chắc tay và luôn giữ được sự tự tin của mình. Mong bạn gặp nhiều người tử tế, có những ngày thật vui xen giữa lịch học bận rộn, và mỗi khi đạt được một điều dù nhỏ, bạn cũng biết dừng lại một chút để công nhận nỗ lực của mình."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-32",
@@ -379,9 +379,9 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Tâm đã dành một chút thời gian mở thư nhaaa ♡ Vậy là những lời này đã đến được với bạn rồi.",
       "Không cần hoàn hảo mới xứng đáng được vui. Cứ lớn lên theo cách Tâm thấy đúng, dành thời gian cho những điều có ý nghĩa và cho phép bản thân có những ngày chưa làm được hết mọi thứ — bởi chẳng ai có thể lúc nào cũng vừa giỏi, vừa ổn, vừa tràn đầy năng lượng.",
-      "Chúc Tâm có một năm học nhiều trải nghiệm đẹp, ít áp lực hơn và đủ kiên nhẫn với chính mình trong những lúc chưa như ý. Mong việc học tiến bộ từng bước, những người bên cạnh luôn biết lắng nghe, còn những điều Tâm đang chờ đợi sẽ dần có câu trả lời theo cách khiến bạn thấy yên lòng."
+      "Chúc bạn 20/10 vui thật vui nhaaa ♡ Chúc bạn luôn xinh, luôn có mood tốt, học hành ổn áp và ngày nào cũng có ít nhất một chuyện vui để kể. Mong những buổi đi học có thêm nhiều tiếng cười, nhiều kỷ niệm linh tinh mà sau này nhớ lại vẫn thấy buồn cười. Với cả nhớ ăn uống đầy đủ, ngủ sớm một chút và đừng để bài vở dí chạy quanh lớp nha =))) Chúc bạn một năm học thật nhiều niềm vui và thật nhiều khoảnh khắc đáng yêu nhéee ♡."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-33",
@@ -391,9 +391,9 @@ const girls = [
     "paragraphs": [
       "Thảo mở thư rồi nèee ♡ Cảm ơn bạn vì đã ghé qua nhận một chút vui từ chúng mình nhaaa.",
       "Những lần nói chuyện, những giờ học và cả chuyện linh tinh trong lớp rồi sẽ góp thành một phần rất riêng của năm tháng này. Vì thế cứ cười thật nhiều, tham gia thật nhiều và đừng ngại lưu lại những khoảnh khắc tưởng như chẳng có gì đặc biệt — biết đâu sau này lại là những chuyện được kể nhiều nhất.",
-      "Chúc Thảo luôn có người để cười cùng, có việc khiến mình hào hứng và có thật nhiều ngày trở về nhà với tâm trạng vui vẻ. Mong bạn học hành ngày càng ổn, những điều đang mong chờ dần thành hiện thực, và giữa những ngày bận rộn vẫn có đủ thời gian cho bạn bè, sở thích cùng những niềm vui rất riêng."
+      "Chúc Thảo luôn có người để cười cùng, có việc khiến mình hào hứng và có thật nhiều ngày trở về nhà với tâm trạng vui vẻ. Mong bạn học hành ngày càng xuất sắc, những điều đang mong chờ dần thành hiện thực, và giữa những ngày bận rộn vẫn có đủ thời gian cho bạn bè, sở thích cùng những niềm vui rất riêng."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-34",
@@ -403,9 +403,9 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Thư vì đã mở lá thư nhỏ này nhaaa ♡ Hy vọng bạn sẽ thấy có một chút ấm áp ở đây.",
       "Một câu nói vui hay một trận cười vô tri cũng đủ làm một ngày ở lớp dễ chịu hơn rất nhiều. Mong Thư có thật nhiều khoảnh khắc như thế, những niềm vui đến bất chợt và chẳng cần chuẩn bị trước, để những ngày đi học không chỉ toàn bài vở và deadline.",
-      "Chúc Thư gặp được những người khiến bạn thấy thoải mái, có những buổi học đáng nhớ và những điều đang chờ đợi cũng dần thành hiện thực. Mong bạn luôn giữ được sự dịu dàng của mình nhưng cũng đủ tự tin để nói điều mình nghĩ, làm điều mình muốn và bước về phía những cơ hội tốt hơn."
+      "Chúc bạn 20/10 vui thật vui nhaaa ♡ Chúc bạn luôn xinh, luôn có mood tốt, học hành ổn áp và ngày nào cũng có ít nhất một chuyện vui để kể. Mong những buổi đi học có thêm nhiều tiếng cười, nhiều kỷ niệm linh tinh mà sau này nhớ lại vẫn thấy buồn cười. Với cả nhớ ăn uống đầy đủ, ngủ sớm một chút và đừng để bài vở dí chạy quanh lớp nha =))) Chúc bạn một năm học thật nhiều niềm vui và thật nhiều khoảnh khắc đáng yêu nhéee ♡."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-35",
@@ -415,7 +415,7 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Trâmmm đã ghé vào đây nhaaa ♡ Lá thư này vui lắm vì cuối cùng cũng được bạn mở.",
       "Trâm cứ giữ sự nhiệt tình của mình nhé, vì những người có thể làm không khí vui lên luôn rất đáng quý. Một lớp học sẽ khác hẳn khi có người sẵn sàng cười trước, nói một câu khiến cả nhóm vui lên hoặc kéo mọi người lại gần nhau bằng chính năng lượng của mình.",
-      "Chúc Trâm có một 20/10 thật vui, học hành tiến bộ và thật nhiều khoảnh khắc mà sau này nhớ lại vẫn thấy thương thời học sinh. Mong những điều bạn cố gắng sẽ có kết quả, những ngày bình thường cũng có chuyện đáng cười, và các bạn trong lớp sẽ đem đến cho Trâm nhiều kỷ niệm đủ vui để lâu lâu nhớ lại vẫn thấy ấm lòng."
+      "Chúc Trâm có một 20/10 thật vui, học giỏiii và thật nhiều khoảnh khắc mà sau này nhớ lại vẫn thấy thương thời học sinh. Mong những điều bạn cố gắng sẽ có kết quả, những ngày bình thường cũng có chuyện đáng cười, và các bạn trong lớp sẽ đem đến cho Trâm nhiều kỷ niệm đủ vui để lâu lâu nhớ lại vẫn thấy ấm lòng."
     ],
     "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
   },
@@ -427,14 +427,14 @@ const girls = [
     "paragraphs": [
       "Cảm ơn Trang đã dành chút thời gian đọc thư nhaaa ♡ Có vài lời thật nhỏ muốn gửi riêng cho bạn.",
       "Trang nhớ dành một chút thời gian cho bản thân giữa những ngày lịch học kín mít nhé. Có thể chỉ là một buổi tối ngủ sớm, nghe nhạc, xem thứ mình thích hoặc ngồi yên một lúc; nghỉ ngơi không phải bỏ cuộc, mà là để mình có thêm sức đi tiếp.",
-      "Chúc Trang làm tốt những điều mình theo đuổi, có bạn bè thật hợp và luôn tìm được một khoảng bình yên sau những ngày nhiều việc. Mong việc học thuận lợi, những dự định riêng có thêm cơ hội thực hiện, và dù lịch trình có bận đến đâu bạn vẫn không quên dành thời gian cho những người và những điều khiến mình vui."
+      "Chúc Trangg có một ngày 20/10 thật vui vẻ , ngày càng xinh đẹppp . Chúc bạn luôn làm tốt những điều mình theo đuổi ,có bạn bè thật hợp và luôn tìm được một khoảng bình yên sau những ngày nhiều việc. Mong rằng việc học luôn thuận lợi, những dự định riêng có thêm cơ hội thực hiện, và dù lịch trình có bận đến đâu bạn vẫn không quên dành thời gian cho những người và những điều khiến mình vui."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-37",
     "name": "An Thanh Tú",
-    "subject": "Chúc bạn một ngày thật nhẹ",
+    "subject": "Chúc bạn một ngày thật ấm áp",
     "greeting": "Gửi An Thanh Tú,",
     "paragraphs": [
       "Cảm ơn Tú vì đã tìm thấy lá thư này nhaaa ♡ Hy vọng mấy dòng nhỏ ở đây làm bạn vui hơn một chút.",
@@ -446,26 +446,26 @@ const girls = [
   {
     "id": "student-38",
     "name": "Nguyễn Bảo Vy",
-    "subject": "Gửi bạn vài điều đáng yêu",
+    "subject": "Gửi bạn vài điều đáng yêuu",
     "greeting": "Gửi Nguyễn Bảo Vy,",
     "paragraphs": [
       "Vy mở thư rồi nèee ♡ Cảm ơn bạn đã ghé qua và đọc những lời chúng mình muốn gửi nhaaa.",
       "Vy cứ tận hưởng những điều đang có, từ một buổi học vui đến một cuộc trò chuyện kéo dài hơn dự định. Có những khoảnh khắc lúc xảy ra chẳng thấy gì đặc biệt, nhưng chính chúng lại làm quãng thời gian đi học có thêm màu sắc và sau này nhớ lại sẽ thấy rất thương.",
       "Chúc Vy luôn có lý do để mỉm cười, đủ tự tin trước những điều mới và có thật nhiều kỷ niệm đẹp cùng lớp mình. Mong những ngày phía trước vừa có sự cố gắng để tiến bộ, vừa có những buổi thật vui bên bạn bè; và khi có chuyện không như ý, bạn vẫn biết cách dịu dàng với chính mình."
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-39",
     "name": "Trần Thị Hải Yến",
-    "subject": "Một lời chúc thật vui",
+    "subject": "Một lời chúc nho nhỏ",
     "greeting": "Gửi Trần Thị Hải Yến,",
     "paragraphs": [
       "Cảm ơn Yến đã mở lá thư này nhaaa ♡ Chúc bạn đọc nó thật chậm và nhận lấy chút vui nho nhỏ.",
       "Yến cứ giữ cho mình một góc thật nhẹ giữa những ngày bận rộn, nơi bạn có thể nghỉ ngơi mà không cần nghĩ đến việc phải làm gì tiếp theo. Không phải lúc nào mình cũng cần năng suất; đôi khi được thở một chút, ngủ đủ và làm điều mình thích cũng đã là một ngày tốt rồi.",
-      "Chúc bạn học hành thuận lợi, gặp nhiều chuyện vui và có những người bạn khiến quãng thời gian này trở nên thật đáng nhớ. Mong những điều đang cố gắng sẽ dần có kết quả, những ngày mệt có chỗ để dựa vào, còn những ngày vui thì có thật nhiều người cùng chia sẻ. 20/10 thật vui nhaaa ♡"
+      "Chúc bạn 20/10 vui thật vui nhaaa ♡ Chúc bạn luôn xinh, luôn có mood tốt, học hành ổn áp và ngày nào cũng có ít nhất một chuyện vui để kể. Mong những buổi đi học có thêm nhiều tiếng cười, nhiều kỷ niệm linh tinh mà sau này nhớ lại vẫn thấy buồn cười. Với cả nhớ ăn uống đầy đủ, ngủ sớm một chút và đừng để bài vở dí chạy quanh lớp nha =))) Chúc bạn một năm học thật nhiều niềm vui và thật nhiều khoảnh khắc đáng yêu nhéee ♡♡"
     ],
-    "sign": "Từ các bạn nam, với một lời chúc nhỏ ♡"
+    "sign": "Chúng tớ, với một lời chúc nhỏ ♡"
   },
   {
     "id": "student-40",
@@ -487,8 +487,8 @@ const teacher = {
   "greeting": "Thưa cô Hằng kính mến,",
   "paragraphs": [
     "Nhân ngày 20/10, chúng em cảm ơn cô vì đã luôn quan tâm và đồng hành cùng 10B4. ♡",
-    "Những lời nhắc, những câu chuyện và cả những lúc cô cùng lớp trao đổi khiến những ngày ở lớp trở nên gần gũi hơn. Chúng em rất trân trọng những điều bình thường như vậy.",
-    "Chúc cô luôn vui, thật nhiều sức khỏe và có thật nhiều ngày đến lớp nhẹ nhàng, nhiều tiếng cười. Mong cô lúc nào cũng giữ được sự nhiệt tình và những niềm vui rất riêng của mình. Chúc cô có một 20/10 thật vui và thật nhiều điều dễ thương ạ ♡"
+    "Những lời nhắc, những câu chuyện và cả những lúc cô cùng lớp trao đổi khiến những buổi học ở lớp trở nên gần gũi hơn. Chúng em rất trân trọng những điều bình thường như thế 💗.",
+    "Chúc cô có một ngày 20/10 hạnh phúc, thật nhiều sức khỏe và có thật nhiều ngày đến lớp nhẹ nhàng, nhiều tiếng cười. Mong cô lúc nào cũng giữ được sự nhiệt tình và những niềm vui rất riêng của mình cùng nhiều điều dễ thương ạ ♡"
   ],
   "sign": "Chúng em, 10B4 ♡",
   "teacher": true
