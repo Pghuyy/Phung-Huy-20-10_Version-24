@@ -14,19 +14,19 @@ const bonusPool = [
   'Mong bạn luôn có một góc nhỏ để làm điều mình thích, kể cả giữa những ngày đầy bài vở.',
   'Có những ngày chẳng có gì đặc biệt, nhưng biết đâu sau này lại là những ngày mình nhớ nhất.',
   'Mong bạn gặp thật nhiều người tử tế, và cũng luôn giữ được sự tử tế rất riêng của mình.',
-  'Đừng quên tự thưởng cho mình những niềm vui nhỏ sau những ngày cố gắng nhé.',
+  'Đừng quên tự thưởng cho mình nhiều niềm vui nhỏ sau những ngày cố gắng nhé.',
   'Mong mỗi lần nhìn lại năm học này, bạn sẽ nhớ nhiều tiếng cười hơn những lần mệt.',
   'Có một điều nhỏ: bạn không cần lúc nào cũng thật hoàn hảo mới có một ngày thật vui.',
   'Mong những điều bạn đang chờ sẽ đến vào một thời điểm thật đẹp.',
   'Nếu có một ngày mọi thứ hơi rối, cứ làm từng việc một. Rồi mọi thứ sẽ dần ổn thôi.',
   'Mong bạn luôn có những người khiến giờ ra chơi cũng trở nên đáng mong chờ.',
   'Giữ lấy những khoảnh khắc vô tri, những câu chuyện linh tinh và cả những trận cười không báo trước nhé.',
-  'Mong bạn có đủ tự tin để chọn điều mình thích, và đủ bình tĩnh để chờ điều mình cần.',
+  'Mong bạn có đủ tự tin để chọn điều mình thích, và đủ kiên trì để chờ điều mình cần.',
   'Một lời nhắn nhỏ thôi: những ngày bình thường cũng xứng đáng được vui.',
   'Mong bạn luôn tìm được một lý do nhỏ để thấy hôm nay dễ thương hơn hôm qua.',
   'Nếu có điều gì khiến bạn vui, cứ vui thật nhiều. Không cần một lý do thật lớn đâu.',
   'Mong những ngày tới có thêm vài bất ngờ dễ thương mà bạn hoàn toàn không đoán trước được.',
-  'Hãy giữ lại phiên bản mình biết cười vì những chuyện rất ngớ ngẩn nhé.',
+  'Hãy giữ lại phiên bản hạnh phúc của mình nhé 💗.',
   'Mong bạn học được nhiều điều hay, nhưng cũng đừng quên có thật nhiều chuyện vui để kể.',
   'Có thể một ngày nào đó bạn sẽ nhớ những điều rất nhỏ của 10B4. Mong khi ấy bạn sẽ mỉm cười.',
   'Mong bạn luôn có đủ năng lượng cho những điều mình thật sự muốn làm.',
@@ -46,7 +46,7 @@ const bonusPool = [
   'Mong bạn có thật nhiều khoảnh khắc nhỏ mà sau này nghĩ lại vẫn thấy: ừ, ngày ấy vui thật.',
   'Hãy để những ngày sắp tới có thêm một chút ngẫu hứng, một chút bất ngờ và thật nhiều tiếng cười.',
   'Mong bạn luôn biết rằng những niềm vui nhỏ cũng đáng được trân trọng.',
-  'Và cuối cùng, mong bạn có một 20/10 thật vui — theo đúng cách khiến bạn thấy vui nhất.'
+  'Và cuối cùng, mong bạn có một 20/10 thật hạnh phúc — theo đúng cách khiến bạn thấy vui nhất.'
 ];
 function bonusFor(d){
   if(d.teacher) return 'Mong cô cũng có những khoảng thời gian thật nhẹ nhàng cho riêng mình, với nhiều niềm vui nhỏ sau những ngày bận rộn cùng lớp.';
@@ -67,7 +67,7 @@ function showReplyToast(text){
   later(()=>{t.classList.remove('show');later(()=>t.remove(),360)},1700);
 }
 function react(kind){
-  const msgs={sweet:'♡ Đã nhận một chút dễ thương.',received:'✦ Đã nhận rồi nhé.',thanks:'🌷 10B4 nhận được lời hồi đáp.'};
+  const msgs={sweet:'♡ Nhận một chút dễ thươngggg.',received:'✦ chúng tớ nhận rồi nhéee.',thanks:'🌷 Đã nhận được lời hồi đáp-))).'};
   const colors={sweet:'♡',received:'✦',thanks:'🌷'};
   const layer=$('#touchTrail');
   if(layer && !reducedMotion){for(let i=0;i<6;i++){const h=document.createElement('span');h.className='trail-heart';h.textContent=colors[kind];h.style.setProperty('--x',(innerWidth-45)+'px');h.style.setProperty('--y',(innerHeight-58)+'px');h.style.setProperty('--dx',(Math.random()*60-30)+'px');h.style.setProperty('--dy',(-20-Math.random()*45)+'px');h.style.setProperty('--r',(Math.random()*30-15)+'deg');layer.appendChild(h);later(()=>h.remove(),800)}}
